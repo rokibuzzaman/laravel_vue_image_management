@@ -1,6 +1,5 @@
-# laravel_vue_import_csv
-- `git clone https://github.com/rokibuzzaman/laravel_vue_import_csv.git`
-- `cd laravel_vue_import_csv/`
+# laravel_vue_image_management
+- `git clone https://github.com/rokibuzzaman/laravel_vue_image_management.git`
 - `composer install`
 - `cp .env.example .env`
 - Update `.env` and set your database credentials
