@@ -1,10 +1,13 @@
-# laravel_vue_image_management
-Clone the repository with git clone
-Copy .env.example file to .env and edit database credentials there
-Run composer install
-Run php artisan key:generate
-Run php artisan migrate --seed (it has some seeded data for your testing)
-Run php artisan passport:install
-Run npm install
-Run npm run dev
-That's it: launch the main URL.
+# laravel_vue_import_csv
+- `git clone https://github.com/rokibuzzaman/laravel_vue_import_csv.git`
+- `cd laravel_vue_import_csv/`
+- `composer install`
+- `cp .env.example .env`
+- Update `.env` and set your database credentials
+- `php artisan key:generate`
+- `php artisan migrate`
+- `php artisan db:seed`
+- `php artisan passport:install`
+- `npm install`
+- `npm run dev`
+- `php artisan serve`
